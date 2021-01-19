@@ -1,0 +1,98 @@
+Police brutality:
+
+1- database 
+National use-of-force data collection (video: about the creation of this database https://www.fbi.gov/services/cjis/ucr/use-of-force)
+
+In 2019,  5,043 out of 18,514 federal, state, local, and tribal law enforcement agencies throughout the nation participated and provided use-of-force data. The officers employed by these agencies represent 41%federal, state, local, and tribal sworn officers in the nation. (https://crime-data-explorer.fr.cloud.gov/officers/national/united-states/uof)
+
+The collection and reporting of data includes any use of force that results in:
+The death of a person due to law enforcement use of force.
+The serious bodily injury of a person due to law enforcement use of force.
+The discharge of a firearm by law enforcement at or in the direction of a person not otherwise resulting in death or serious bodily injury.
+
+-> Only agencies that submitted one or more use-of-force incident reports or zero reports for January through December 2019 are included in this report. (national dataset only availble since 2019.)
+
+Fatal encounters 
+Creating an impartial, comprehensive and searchable national database of people killed during interactions with police
+Methodology – Fatal Encounters
+
+WatchWatch
+WatchWatch police brutality cases from George Floyd protests incident numbers refer to @greg_doucette's thread of police brutality incidents.
+Data based and collected on twitter. Number of incident committed during BLM protests
+Benefits:
+It combines the topics of police brutality and protest in the context of online activism 
+Drawback
+I don’t think it is really a database, more a source of information
+Information coming directly from the population (social media community) but verified only by one -> subjective police brutality definition 
+https://watchwatch.org
+
+The Counted 
+The Counted is a project by the Guardian working to count the number of people killed by police and other law enforcement agencies in the United States throughout 2015 and 2016, to monitor their demographics and to tell the stories of how they died
+
+
+
+2- Website
+Mapping Police Violence
+is a research collaborative collecting comprehensive data on police killings nationwide to quantify the impact of police violence in communities.
+Interactive website that analyze, compare and illustrate date on police violence in the US 
+https://mappingpoliceviolence.org/cities
+Benefits:
+It seems to be a comprehensive set of data, reliable (on the site we can read : Researchers and journalists have utilized Mapping Police Violence data to expand our collective understanding of how police violence impacts communities and how to address it)
+It can gives us idea for different ways to present/map data 
+
+https://killedbypolice.net 
+
+https://www.theguardian.com/us-news/ng-interactive/2015/jun/01/the-counted-police-killings-us-database 
+
+The force report
+a 16-month investigation by New Jersey Advance Media, found New Jersey's system for tracking police force is broken, with no statewide collection or analysis of data, little oversight by state officials and no standard practices among local departments. Two decades ago, officials envisioned a centralized database that would flag potentially dangerous cops for scrutiny. But that database was never created. So we built it.
+http://force.nj.com
+
+Franzi: Guardian article 29 October 2020 
+→ https://www.theguardian.com/us-news/2020/oct/29/us-police-brutality-protest
+
+→ “At least 950 instances of police brutality against civilians and journalists during anti-racism protests have occurred in the past five months, according to data collected by Bellingcat and Forensic Architecture and analysed by the Guardian.”
+
+→ Data by use of force (teargas, guns etc.), and protest events between Ende of May and beginning of August
+
+
+Opposition:
+
+Black lives matter protests 2020 (number + location)
+https://www.creosotemaps.com/blm2020/index.html
+
+Pew research article
+An analysis of #BlackLivesMatter and other Twitter hashtags related to political or social issues
+https://www.pewresearch.org/internet/2018/07/11/an-analysis-of-blacklivesmatter-and-other-twitter-hashtags-related-to-political-or-social-issues/
+
+New Research Article analysing the Black Lives Matter hashtag from March-July 2020:
+https://www.policycenter.ma/sites/default/files/PP_20-28_Badaoui.pdf
+→ Could be useful for methodology of Twitter Data
+
+
+Sentiment:
+Roper data archive 
+As we reflect on racism and anti-racism, the Roper Center has identified and is making available all public opinion surveys of Black Americans in the Roper data archive, which span from 1945 to 2020. We are also making more than eight decades of public opinion data on how the U.S. public views Black America available. These data provide historical insight into how racial attitudes have changed in the United States and how the public currently views topics such as police brutality, race relations, and Black Lives Matter. We are making all of the data, which can be accessed below, freely available to the public.
+https://ropercenter.cornell.edu/black-lives-matter
+
+
+
+Hate Crime: 
+
+National scale:
+Hate Crime statistics 2018 https://ucr.fbi.gov/hate-crime/2018 (last publication)
+The data presented in Hate Crime Statistics provides information about bias-motivated crimes in the United States broken down by state and by local agency. More detailed data (e.g., the subcategory breakdowns of bias motivations, the known offenders’ races, and the victim types for each agency submitting hate crime data to the national UCR Program) are furnished in the UCR Program’s hate crime master files. 
+
+The collection and reporting of data includes:
+Incidents and offenses
+Victims
+Location type 
+Offenders
+Crime by jurisdiction
+
+Protest :
+
+ACLED (The Armed Conflict Location & Event Data Project)
+A joint project with BDI at Princeton University providing the public with real-time data on political violence and demonstrations across the United States. 
+
+https://www.creosotemaps.com/blm2020/index.html - map of BLM protests in the USA.
