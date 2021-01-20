@@ -1,0 +1,18 @@
+Abstract:
+
+
+Approach: 
+
+We approached this research subject by first by using descriptive statistics to choose states to include in our case study. The case study enabled us to adopt a longitudinal perspective on the situation of certain states. Once again largening the scope of our research, we used Python's Open-Source Plotly library to create a linear regression in order to study the relationship between police funding and fatal incidents involving police officers. Finally, we created bar charts to notice any trends. 
+
+
+
+Results:
+
+Our study does not present any clear evidence that the defund the police movement will results in lower rates of fatal encounters in the United States. Indeed, we did not notice any trends at the wider scale or in our case study. Furthermore, our linear regression did not indicate any significant relationship between police funding and fatal incidents with police officers.
+
+
+
+Conclusion:
+
+Our study is flawed by many limitations and does not paint an accurate picture of the current situation in the United States. However, the restricted study we conducted does allow to develop a general idea of how much funding of different sectors has an impact on fatal encounter rates.  Based on our study the impact would not be strong enough to push states to rethink their funding levels. However, it is important to remember that a reallocation in police funding could impact police brutality incidence other than fatal encounters and have a significant influence on the situation of African Americans/Black people in the United States. 
