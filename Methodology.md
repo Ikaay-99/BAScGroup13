@@ -17,7 +17,7 @@
 3. We had split the responsibility of each data set between people, so after making an additional category by each year for hate crime statistics, the two people working on cleaning the data sets came together and combined their findings 
 
 
-Limitations: 
+<h3>Limitations: </h3>
 - public reports of cases of police brutality against civilians are notoriously under reported, especially with relation to race related incidents, therefore, most cases have been recorded from news articles 
 
 After encountering a range of issues with our hate crime data, we, unfortunately, had to change the direction of our project. As previously explained, we made a summary of all the cases of police brutality against specifically African American/Black people in our chosen states in each year. With the hate crime data, it was impossible to reliably combine the data sets they had together to find the number of cases against African American/black people in each state each year. Instead, we were only able to obtain data that showed hate crimes towards back/african American people on a national level (all states) or the total race related crimes for each state. Inconsistencies in reporting and agencies involvement each year also caused further limitations with this. 
@@ -44,7 +44,7 @@ To clean the data, we first downloaded the data sets and made templates for the 
 For state funding, the data was in sheets based on each year from 2017 to 2000. On each sheet, figures were categorised by direct and interstate funding. We used the direct figures and took the total funding as well as the funding to the police for each state in each year. Figures were per capita.
 
 
-## Our Methods - REVIEWED
+<h3>Our Methods - REVIEWED</h3>
 
 Our methodology is divided into three main parts which guide you through the process we followed for our project:
 
